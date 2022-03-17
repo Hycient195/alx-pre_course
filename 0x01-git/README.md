@@ -1,1 +1,1 @@
-Folder for first ALX exercise
+Folder for first ALX exercise is now updated
